@@ -4,3 +4,5 @@ Remove outliers from a dataset using one of two methods
 2. improved Inerquartile range 
 
 These methods remove data lying outside of 3 and 2.7 standard deviations respectivly.
+
+In addition, a program comparing statistical models is included.
